@@ -10,8 +10,7 @@ This course introduces students to modern mobile development practices using **F
 
 flutterappdev
 │
-├── 📁 lectures # Slide decks and lecture notes (PDF/PPT)
-├── 📁 code-examples # Flutter projects and widget examples
+├── 📁 lectures\ # Slide decks and lecture notes (PDF/PPT)
 ├── 📁 labs # Graded lab assignments and solutions
 ├── 📁 project # Semester project guidelines and submissions
 ├── 📁 resources # Links, articles, videos, and external references
