@@ -6,6 +6,18 @@ Welcome to the official GitHub repository for **IS487**, a course offered at **P
 
 This course introduces students to modern mobile development practices using **Flutter**, Google's UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase. Topics range from foundational concepts to advanced UI/UX design, state management, multi-screen navigation, and device integration.
 
+## 📺 YouTube Lecture Videos
+
+Watch the complete lecture series on YouTube:
+
+| Lecture                        | Title                                            | Video Link                                       |
+| ------------------------------ | ------------------------------------------------ | ------------------------------------------------ |
+| 01                             | Introduction to Mobile App Development & Flutter | [Watch Lecture 01](https://youtu.be/1ClUohrNr3o) |
+| 02                             | Flutter UI & Layout Fundamentals                 | [Watch Lecture 02](https://youtu.be/rN_lDjk40RI) |
+| _More lectures coming soon..._ |                                                  |                                                  |
+
+**📺 Subscribe to our channel** to get notified when new lectures are published!
+
 ## 🗂️ Repository Structure
 
 flutterappdev\
