@@ -12,7 +12,7 @@ flutterappdev\
 
 │
 
-├── 📁 flutter_lecX_\ # Sample Code from the lectures
+├── 📁 flutter*lecX*\ # Sample Code from the lectures
 
 ├── 📁 lectures\ # Slide decks and lecture notes (PDF/PPT)
 
@@ -33,7 +33,7 @@ text
 - **Flutter** – UI toolkit for building beautiful, natively compiled apps
 - **Dart** – Programming language used in Flutter
 - **Material Design** – UI/UX guidelines and components
-- **Android Studio / VS Code** – Development environments
+- **VS Code / Android Studio** – Development environments
 - **Git & GitHub** – Version control and collaboration
 
 ## 📖 Learning Outcomes
@@ -62,9 +62,9 @@ Email: amaalik@psu.edu.sa
 ## 📌 How to Use This Repo
 
 1. Clone the repository:  
-   `git clone https://github.com/username/IS487-Flutter-Course.git`
+   `git clone https://github.com/mgmalik/flutterappdev.git`
 2. Install Flutter and Dart SDK from [flutter.dev](https://flutter.dev)
-3. Open examples in VS Code or Android Studio
+3. Open examples in VS Code
 4. Follow along with lecture materials and complete labs
 
 ## 🔗 Useful Links
@@ -72,11 +72,10 @@ Email: amaalik@psu.edu.sa
 - [Flutter Documentation](https://docs.flutter.dev)
 - [Dart Language Tour](https://dart.dev/guides/language/language-tour)
 - [Material Design for Flutter](https://m3.material.io)
-- [Course Syllabus & Schedule](#) _(link to be added)_
 
 ## 📄 License
 
-This repository is intended for educational use within Prince Sultan University. Please respect academic integrity and usage guidelines.
+This repository is intended for educational use within Prince Sultan University and for learners who are following YouTube Videos. Please respect academic integrity and usage guidelines.
 
 ---
 
