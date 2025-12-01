@@ -9,13 +9,21 @@ This course introduces students to modern mobile development practices using **F
 ## 🗂️ Repository Structure
 
 flutterappdev\
+
 │
+
 ├── 📁 flutter_lecX_\ # Sample Code from the lectures
+
 ├── 📁 lectures\ # Slide decks and lecture notes (PDF/PPT)
+
 ├── 📁 labs\ # Graded lab assignments and solutions
+
 ├── 📁 project\ # Semester project guidelines and submissions
+
 ├── 📁 resources\ # Links, articles, videos, and external references
+
 ├── 📁 assets\ # Images, icons, and media used in examples
+
 └── README.md # This file
 
 text
