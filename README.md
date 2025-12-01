@@ -16,7 +16,7 @@ Watch the complete lecture series on YouTube:
 | 02                             | Flutter UI & Layout Fundamentals                 | [Watch Lecture 02](https://youtu.be/rN_lDjk40RI) |
 | _More lectures coming soon..._ |                                                  |                                                  |
 
-**📺 Subscribe to our channel** to get notified when new lectures are published!
+**📺 Subscribe to [our channel](https://www.youtube.com/@brainxl)** to get notified when new lectures are published!
 
 ## 🗂️ Repository Structure
 
