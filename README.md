@@ -12,7 +12,7 @@ flutterappdev\
 
 │
 
-├── 📁 flutter*lecX*\ # Sample Code from the lectures
+├── 📁 flutter_lecX\ # Sample Code from the lectures
 
 ├── 📁 lectures\ # Slide decks and lecture notes (PDF/PPT)
 
