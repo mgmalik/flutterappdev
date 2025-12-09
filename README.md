@@ -14,6 +14,7 @@ Watch the complete lecture series on YouTube:
 | ------------------------------ | ------------------------------------------------ | ------------------------------------------------ |
 | 01                             | Introduction to Mobile App Development & Flutter | [Watch Lecture 01](https://youtu.be/1ClUohrNr3o) |
 | 02                             | Flutter UI & Layout Fundamentals                 | [Watch Lecture 02](https://youtu.be/rN_lDjk40RI) |
+| 03                             | Dart Programming Fundamentals & Flutter Interactive Widgets                 | [Watch Lecture 03](https://youtu.be/oHZ173sOn6k) |
 | _More lectures coming soon..._ |                                                  |                                                  |
 
 **📺 Subscribe to [our channel](https://www.youtube.com/@brainxl)** to get notified when new lectures are published!
