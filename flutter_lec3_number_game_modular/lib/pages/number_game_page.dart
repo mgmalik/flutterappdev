@@ -85,6 +85,7 @@ class _NumberGamePageState extends State<NumberGamePage> {
       body: Container(
         margin: const EdgeInsets.all(16.0),
         padding: const EdgeInsets.all(16.0),
+        width: MediaQuery.of(context).size.width,
         decoration: BoxDecoration(
           border: Border.all(color: Colors.amber, width: 2),
           borderRadius: BorderRadius.circular(12.0),
@@ -126,9 +127,7 @@ class _NumberGamePageState extends State<NumberGamePage> {
                 ),
               ],
             ),
-
             const SizedBox(height: 24.0),
-
             // Score Display with Feedback
             Column(
               crossAxisAlignment: CrossAxisAlignment.start,
