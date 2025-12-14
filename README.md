@@ -10,12 +10,13 @@ This course introduces students to modern mobile development practices using **F
 
 Watch the complete lecture series on YouTube:
 
-| Lecture                        | Title                                            | Video Link                                       |
-| ------------------------------ | ------------------------------------------------ | ------------------------------------------------ |
-| 01                             | Introduction to Mobile App Development & Flutter | [Watch Lecture 01](https://youtu.be/1ClUohrNr3o) |
-| 02                             | Flutter UI & Layout Fundamentals                 | [Watch Lecture 02](https://youtu.be/rN_lDjk40RI) |
-| 03                             | Dart Programming Fundamentals & Flutter Interactive Widgets                 | [Watch Lecture 03](https://youtu.be/oHZ173sOn6k) |
-| _More lectures coming soon..._ |                                                  |                                                  |
+| Lecture                        | Title                                                       | Video Link                                       |
+| ------------------------------ | ----------------------------------------------------------- | ------------------------------------------------ |
+| 01                             | Introduction to Mobile App Development & Flutter            | [Watch Lecture 01](https://youtu.be/1ClUohrNr3o) |
+| 02                             | Flutter UI & Layout Fundamentals                            | [Watch Lecture 02](https://youtu.be/rN_lDjk40RI) |
+| 03                             | Dart Programming Fundamentals & Flutter Interactive Widgets | [Watch Lecture 03](https://youtu.be/oHZ173sOn6k) |
+| 04                             | Modular Design, State Management & Advanced User Input      | [Watch Lecture 04](https://youtu.be/N6nmEAXcWIw) |
+| _More lectures coming soon..._ |                                                             |                                                  |
 
 **📺 Subscribe to [our channel](https://www.youtube.com/@brainxl)** to get notified when new lectures are published!
 
