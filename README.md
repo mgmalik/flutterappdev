@@ -16,6 +16,7 @@ Watch the complete lecture series on YouTube:
 | 02                             | Flutter UI & Layout Fundamentals                            | [Watch Lecture 02](https://youtu.be/rN_lDjk40RI) |
 | 03                             | Dart Programming Fundamentals & Flutter Interactive Widgets | [Watch Lecture 03](https://youtu.be/oHZ173sOn6k) |
 | 04                             | Modular Design, State Management & Advanced User Input      | [Watch Lecture 04](https://youtu.be/N6nmEAXcWIw) |
+| 05                             | Animations, Custom Widgets & Auth UI with Provider          | [Watch Lecture 05](https://youtu.be/u8EnVbPSQ_w) |
 | _More lectures coming soon..._ |                                                             |                                                  |
 
 **📺 Subscribe to [our channel](https://www.youtube.com/@brainxl)** to get notified when new lectures are published!
