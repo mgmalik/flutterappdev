@@ -197,9 +197,40 @@ class HomePage extends StatelessWidget {
 
       /** 13th version: multiple BorderedImage widgets in the Row layout widget
        * are enclosed in the Container layout widget with height set to full height
-       * of the page with both mainAxisAlignment and crossAxisAlignment properties.
+       * of the page with both mainAxisAlignment = spaceevenly and 
+       * crossAxisAlignment properties.
        * Here images overflow from the right side of the screen.
-       * Solving the overflow problem with ScrollView layout widget
+       * Solving the overflow problem with Expanded Widget layout widget
+       */
+      // body: Container(
+      //   margin: EdgeInsets.all(8.0),
+      //   padding: EdgeInsets.all(8.0),
+      //   height: MediaQuery.of(context).size.height,
+      //   decoration: BoxDecoration(
+      //     border: Border.all(color: Colors.blue, width: 2.0),
+      //     borderRadius: BorderRadius.circular(20),
+      //   ),
+      //   child: Row(
+      //     mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+      //     crossAxisAlignment: CrossAxisAlignment.center,
+      //     children: [
+      //       BorderedImage(),
+      //       BorderedImage(),
+      //       BorderedImage(),
+      //       BorderedImage(),
+      //       BorderedImage(),
+      //       BorderedImage(),
+      //       BorderedImage(),
+      //     ],
+      //   ),
+      // ),
+
+      /** 14th version: multiple BorderedImage widgets in the Row layout widget
+       * are enclosed in the Container layout widget with height set to full height
+       * of the page with both mainAxisAlignment = spaceevenly and 
+       * crossAxisAlignment properties.
+       * Here images overflow from the right side of the screen.
+       * Solving the overflow problem with SingleChildScrollView layout widget
        */
       body: Container(
         margin: EdgeInsets.all(8.0),
@@ -212,7 +243,7 @@ class HomePage extends StatelessWidget {
         child: SingleChildScrollView(
           scrollDirection: Axis.horizontal,
           child: Row(
-            mainAxisAlignment: MainAxisAlignment.center,
+            mainAxisAlignment: MainAxisAlignment.spaceEvenly,
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
               BorderedImage(),

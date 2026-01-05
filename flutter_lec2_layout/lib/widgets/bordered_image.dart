@@ -16,6 +16,23 @@ class BorderedImage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    // Version 13: where we are using the Expanded widget to force the widgets
+    // to remain in the screen rather than overflow
+    // return Expanded(
+    //   child: Container(
+    //     width: imageSize + (2 * borderWidth),
+    //     height: imageSize + (2 * borderWidth),
+    //     decoration: BoxDecoration(
+    //       border: Border.all(color: borderColor, width: borderWidth),
+    //       borderRadius: BorderRadius.circular(borderRadius),
+    //     ),
+    //     child: Image.asset(
+    //       'assets/images/flutter_bird.png',
+    //       width: imageSize,
+    //       height: imageSize,
+    //     ),
+    //   ),
+    // );
     return Container(
       width: imageSize + (2 * borderWidth),
       height: imageSize + (2 * borderWidth),
