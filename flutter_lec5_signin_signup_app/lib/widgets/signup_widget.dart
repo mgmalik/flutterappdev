@@ -29,7 +29,7 @@ class SignupWidget extends StatelessWidget {
           isValid: context.watch<StateProvider>().isValid,
           onChanged: (value) {
             // verify email...
-            if (value.toString().length > 3) {
+            if (value.toString().length >= 3) {
               context.read<StateProvider>().isValid = true;
             } else {
               context.read<StateProvider>().isValid = false;

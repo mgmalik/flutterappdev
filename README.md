@@ -10,14 +10,17 @@ This course introduces students to modern mobile development practices using **F
 
 Watch the complete lecture series on YouTube:
 
-| Lecture                        | Title                                                       | Video Link                                       |
-| ------------------------------ | ----------------------------------------------------------- | ------------------------------------------------ |
-| 01                             | Introduction to Mobile App Development & Flutter            | [Watch Lecture 01](https://youtu.be/1ClUohrNr3o) |
-| 02                             | Flutter UI & Layout Fundamentals                            | [Watch Lecture 02](https://youtu.be/rN_lDjk40RI) |
-| 03                             | Dart Programming Fundamentals & Flutter Interactive Widgets | [Watch Lecture 03](https://youtu.be/oHZ173sOn6k) |
-| 04                             | Modular Design, State Management & Advanced User Input      | [Watch Lecture 04](https://youtu.be/N6nmEAXcWIw) |
-| 05                             | Animations, Custom Widgets & Auth UI with Provider          | [Watch Lecture 05](https://youtu.be/u8EnVbPSQ_w) |
-| _More lectures coming soon..._ |                                                             |                                                  |
+| Lecture                                       | Title                                                       | Video Link                                                                          |
+| --------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| Flutter App Dev Lecture 01                    | Introduction to Mobile App Development & Flutter            | [Watch Flutter App Dev Lecture 01](https://youtu.be/1ClUohrNr3o)                    |
+| Flutter App Dev Lecture 02                    | Flutter UI & Layout Fundamentals                            | [Watch Flutter App Dev Lecture 02](https://youtu.be/rN_lDjk40RI)                    |
+| Flutter App Dev Lecture 03                    | Dart Programming Fundamentals & Flutter Interactive Widgets | [Watch Flutter App Dev Lecture 03](https://youtu.be/oHZ173sOn6k)                    |
+| Flutter App Dev Lecture 04                    | Modular Design, State Management & Advanced User Input      | [Watch Flutter App Dev Lecture 04](https://youtu.be/N6nmEAXcWIw)                    |
+| Flutter App Dev Lecture 05 Part I             | Animations, Custom Widgets & Auth UI with Provider          | [Watch Flutter App Dev Lecture 05](https://youtu.be/u8EnVbPSQ_w)                    |
+| Flutter App Dev Lecture 05 Part II            | Animations, Navigation & Data Persistence in Flutter        | [Watch Flutter App Dev Lecture 05 Part I](https://youtu.be/YW7NiRv73pg)             |
+| Flutter App Dev Lecture 05 Part III Practical | Practical Session: Expense Tracker App Development          | [Watch Flutter App Dev Lecture 05 Part III Practical](https://youtu.be/rMTNqYLFRVc) |
+| Flutter App Dev Lecture 05 Part IV Practical  | Practical Session: Expense Tracker App Development          | [Watch Flutter App Dev Lecture 05 Part IV Practical]()                              |
+| _More lectures coming soon..._                |                                                             |                                                                                     |
 
 **📺 Subscribe to [our channel](https://www.youtube.com/@brainxl)** to get notified when new lectures are published!
 
