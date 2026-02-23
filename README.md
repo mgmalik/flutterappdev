@@ -22,6 +22,8 @@ Watch the complete lecture series on YouTube:
 | Flutter App Dev Lecture 05 Part II            | Animations, Navigation & Data Persistence in Flutter                 | [Watch Flutter App Dev Lecture 05 Part I](https://youtu.be/YW7NiRv73pg)             |
 | Flutter App Dev Lecture 05 Part III Practical | Practical Session: Expense Tracker App Development                   | [Watch Flutter App Dev Lecture 05 Part III Practical](https://youtu.be/rMTNqYLFRVc) |
 | Flutter App Dev Lecture 05 Part IV Practical  | Practical Session: Expense Tracker App Development                   | [Watch Flutter App Dev Lecture 05 Part IV Practical](https://youtu.be/DPKYhT8qH2g)  |
+| Flutter App Dev Lecture 06 Part I             | SQLite Database Integration in Flutter - Building Offline-Ready Apps | [Watch Flutter App Dev Lecture 05 Part IV Practical](https://youtu.be/S48wB4lS2Ss)  |
+| Flutter App Dev Lecture 06 Part II            | Advanced SQLite with Drift in Flutter                                | [Watch Flutter App Dev Lecture 05 Part IV Practical](https://youtu.be/4ijNu3wFDiM)  |
 | _More lectures coming soon..._                |                                                                      |                                                                                     |
 
 **📺 Subscribe to [our channel](https://www.youtube.com/@brainxl)** to get notified when new lectures are published!
